@@ -1,5 +1,17 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("커밋 추가");
+        int age = 25;
+        System.out.println(age);
+
+        age = 26;
+        System.out.println(age);
+
+        double salary =50000.75;
+        System.out.println(salary);
+
+        String name = "백종성";
+        System.out.println(name);
+        System.out.println(name.length());
+
     }
 }
